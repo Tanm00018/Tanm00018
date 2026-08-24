@@ -1,38 +1,26 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                         GH-ASCII PROFILE                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img src="dark_mode.svg" alt="Tanm00018 GitHub ASCII Profile" width="100%">
 </p>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<h2 align="center">
+  <code>TANM00018@GITHUB</code>
+</h2>
 
-<!--                           SYSTEM HEADER                                 -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────────────────────────────────────╮
-│                                                                              │
-│   TANM00018  //  AI ENGINEERING LAB                                        │
-│                                                                              │
-│   COMPUTER VISION  ·  DEEP LEARNING  ·  GENERATIVE AI  ·  REAL-TIME AI      │
-│                                                                              │
-╰──────────────────────────────────────────────────────────────────────────────╯
-```
-
-</div>
+<p align="center">
+  <code>AI ENGINEERING</code>
+  &nbsp;•&nbsp;
+  <code>COMPUTER VISION</code>
+  &nbsp;•&nbsp;
+  <code>DEEP LEARNING</code>
+  &nbsp;•&nbsp;
+  <code>GENERATIVE AI</code>
+</p>
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 <td width="55%" valign="top">
 
@@ -63,17 +51,13 @@ Understand → Build → Break
 
 ### `~/status`
 
-```text
-┌──────────────────────────┐
-│ SYSTEM STATUS            │
-├──────────────────────────┤
-│ AI / ML          ONLINE  │
-│ COMPUTER VISION  ONLINE  │
-│ DEEP LEARNING    ONLINE  │
-│ GEN-AI           ACTIVE  │
-│ BUILD MODE       ACTIVE  │
-└──────────────────────────┘
-```
+| SYSTEM          |   STATUS  |
+| :-------------- | :-------: |
+| AI / ML         | 🟢 ONLINE |
+| COMPUTER VISION | 🟢 ONLINE |
+| DEEP LEARNING   | 🟢 ONLINE |
+| GENERATIVE AI   | 🟢 ACTIVE |
+| BUILD MODE      | 🟢 ACTIVE |
 
 </td>
 </tr>
@@ -85,54 +69,58 @@ Understand → Build → Break
 
 I'm an engineering student focused on **Artificial Intelligence, Computer Vision, Deep Learning, and Generative AI**.
 
-I enjoy building things with Python, breaking them, fixing them, and understanding what is happening **under the hood** rather than simply making something run.
+I enjoy building things with Python, breaking them, fixing them, and understanding **why** they work rather than simply making them run.
 
-Currently exploring real-time computer vision, image enhancement, generative models, and AI-powered applications — with a constant habit of turning random **"what if?"** ideas into working experiments.
+Currently exploring real-time computer vision, image enhancement, generative models, and AI-powered applications — with a habit of turning random **"what if?"** ideas into working experiments.
 
-> `building things > talking about building things`
+```text
+$ echo "building > talking"
+building > talking
+
+$ echo "current_mode"
+LEARN / BUILD / EXPERIMENT
+```
 
 ---
 
-## `02 // CURRENTLY BUILDING`
+## `02 // ACTIVE PROJECT`
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="68%" valign="top">
 
 ### 🌫️ Real-Time Fog & Night-Vision Enhancement
 
-An AI-powered computer vision system focused on improving visual information in **foggy and low-light environments**.
+**AI-powered computer vision system**
 
-The goal is to explore how deep learning and image-processing techniques can be combined into a practical **real-time enhancement pipeline**.
+Exploring deep learning and image-processing approaches for improving visual information under **foggy and low-light conditions**.
+
+The goal is to move beyond a simple enhancement demo and explore a practical **real-time vision pipeline**.
 
 <br>
 
-**CURRENT FOCUS**
+**FOCUS**
 
-`Computer Vision`
-`Image Enhancement`
-`Deep Learning`
-`Low-Light Vision`
-`Real-Time Processing`
+`Computer Vision` `Image Enhancement` `Deep Learning` `Low-Light Vision` `Real-Time Processing`
 
 </td>
 
-<td width="35%" valign="top">
+<td width="32%" valign="top">
 
 ### `PROCESS`
 
 ```text
 INPUT
-  ↓
+ ↓
 DEGRADED IMAGE
-  ↓
+ ↓
 VISION PIPELINE
-  ↓
+ ↓
 ENHANCEMENT
-  ↓
+ ↓
 AI INFERENCE
-  ↓
-VISUAL OUTPUT
+ ↓
+OUTPUT
 ```
 
 **STATUS**
@@ -175,7 +163,7 @@ VISUAL OUTPUT
 <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### `APPLICATION DEVELOPMENT`
+### `APPLICATIONS`
 
 <p>
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white">
@@ -200,23 +188,23 @@ VISUAL OUTPUT
 
 ---
 
-## `04 // PROJECTS`
+## `04 // PROJECT MATRIX`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01` · FOG / NIGHT VISION
+### `01` · COMPUTER VISION
 
-**AI Computer Vision System**
+**FOG / NIGHT VISION**
 
-Real-time enhancement research for adverse visual conditions including fog and low-light environments.
+Real-time visual enhancement research for adverse conditions.
 
-**Stack**
+**STACK**
 
 `Python` `OpenCV` `Deep Learning`
 
-**Status**
+**STATUS**
 
 🟢 `BUILDING`
 
@@ -226,15 +214,15 @@ Real-time enhancement research for adverse visual conditions including fog and l
 
 ### `02` · GENERATIVE AI
 
-**GAN / Generative Experiments**
+**GAN EXPERIMENTS**
 
-Hands-on experimentation with generative models and deep learning approaches for visual data.
+Hands-on experimentation with generative models and visual data.
 
-**Stack**
+**STACK**
 
 `Python` `Deep Learning` `GANs`
 
-**Status**
+**STATUS**
 
 🟡 `EXPERIMENTAL`
 
@@ -246,15 +234,15 @@ Hands-on experimentation with generative models and deep learning approaches for
 
 ### `03` · COMPUTER VISION
 
-**Vision Experiments**
+**VISION EXPERIMENTS**
 
-A collection of experiments exploring image processing, visual understanding, and machine-learning-based vision systems.
+Experiments involving image processing, visual understanding, and ML-based vision systems.
 
-**Stack**
+**STACK**
 
 `Python` `OpenCV` `ML`
 
-**Status**
+**STATUS**
 
 🟡 `ITERATING`
 
@@ -262,17 +250,17 @@ A collection of experiments exploring image processing, visual understanding, an
 
 <td width="50%" valign="top">
 
-### `04` · AI EXPERIMENTS
+### `04` · AI LAB
 
-**Ideas → Prototypes**
+**PROTOTYPES**
 
-Small experiments born from random questions, technical curiosity, and the occasional "what if we tried this?"
+Small experiments born from technical curiosity and "what if?" ideas.
 
-**Stack**
+**STACK**
 
 `AI` `ML` `CV` `GenAI`
 
-**Status**
+**STATUS**
 
 🔵 `CONTINUOUS`
 
@@ -297,11 +285,11 @@ Small experiments born from random questions, technical curiosity, and the occas
 
 ## `06 // AREAS OF INTEREST`
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="25%">
 
-### 👁️
+👁️
 
 **COMPUTER**
 **VISION**
@@ -310,7 +298,7 @@ Small experiments born from random questions, technical curiosity, and the occas
 
 <td align="center" width="25%">
 
-### 🧠
+🧠
 
 **DEEP**
 **LEARNING**
@@ -319,7 +307,7 @@ Small experiments born from random questions, technical curiosity, and the occas
 
 <td align="center" width="25%">
 
-### ✨
+✨
 
 **GENERATIVE**
 **AI**
@@ -328,7 +316,7 @@ Small experiments born from random questions, technical curiosity, and the occas
 
 <td align="center" width="25%">
 
-### ⚡
+⚡
 
 **REAL-TIME**
 **SYSTEMS**
@@ -341,59 +329,51 @@ Small experiments born from random questions, technical curiosity, and the occas
 
 ## `07 // ENGINEERING PHILOSOPHY`
 
-<div align="center">
+<p align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│        UNDERSTAND                                                   │
-│             ↓                                                       │
-│           BUILD                                                     │
-│             ↓                                                       │
-│           BREAK                                                     │
-│             ↓                                                       │
-│          DEBUG                                                      │
-│             ↓                                                       │
-│           LEARN                                                     │
-│             ↓                                                       │
-│        BUILD BETTER                                                 │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+UNDERSTAND
+    ↓
+BUILD
+    ↓
+BREAK
+    ↓
+DEBUG
+    ↓
+LEARN
+    ↓
+BUILD BETTER
 ```
 
-</div>
+</p>
 
-I don't want to just use a technology.
+> **Don't just use the tool. Understand the tool.**
 
-I want to understand **why it works, where it fails, and what happens when I push it further.**
+I like going one layer deeper — understanding algorithms, experimenting with different approaches, finding failure cases, and figuring out what happens under the hood.
 
 ---
 
 ## `08 // TERMINAL`
 
-<div align="center">
+<p align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  tanmay@github:~$ ./build                                          │
-│                                                                     │
-│  [████████████████████████████████████████████████] 100%           │
-│                                                                     │
-│  ✓ idea acquired                                                    │
-│  ✓ problem understood                                               │
-│  ✓ architecture designed                                            │
-│  ✓ implementation started                                           │
-│  ✓ bugs discovered                                                  │
-│  ✓ bugs investigated                                                │
-│  ✓ system improved                                                  │
-│                                                                     │
-│  tanmay@github:~$ _                                                 │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+$ ./build
+
+[████████████████████████████████████████████████] 100%
+
+✓ idea acquired
+✓ problem understood
+✓ architecture designed
+✓ implementation started
+✓ bugs discovered
+✓ bugs investigated
+✓ system improved
+
+$ _
 ```
 
-</div>
+</p>
 
 ---
 
@@ -401,33 +381,28 @@ I want to understand **why it works, where it fails, and what happens when I pus
 
 <p align="center">
 
-`LEARN`  •  `BUILD`  •  `EXPERIMENT`  •  `REPEAT`
+<code>LEARN</code>
+ •  <code>BUILD</code>
+ •  <code>EXPERIMENT</code>
+ •  <code>REPEAT</code>
 
-</p>
+<br><br>
 
-<div align="center">
+<b>Turning "what if?" into "it works."</b>
 
-**Turning "what if?" into "it works."**
-
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Tanm00018&icon=3&color=111111&style=for-the-badge" alt="Profile Views">
 
-</div>
+</p>
 
-<br>
+---
 
-<div align="center">
+<p align="center">
+  <code>TANM00018 // AI ENGINEERING LAB</code>
+</p>
 
-```text
-──────────────────────────────────────────────────────────────────────────────
-
-                         TANM00018 // EOF
-
-             AI · COMPUTER VISION · DEEP LEARNING · GEN-AI
-
-──────────────────────────────────────────────────────────────────────────────
-```
-
-</div>
+<p align="center">
+  <sub>Computer Vision · Deep Learning · Generative AI · Real-Time Systems</sub>
+</p>
 
