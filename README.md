@@ -1,331 +1,433 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Tanm00018's GitHub profile" src="dark_mode.svg" />
-</picture>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--                         GH-ASCII PROFILE                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="dark_mode.svg" alt="Tanm00018 GitHub ASCII Profile" width="100%">
+</p>
 
 <br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--                           SYSTEM HEADER                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   TANM00018@GITHUB                         ARTIFICIAL INTELLIGENCE LAB       ║
-║   ──────────────────────────────────────────────────────────────────────     ║
-║                                                                              ║
-║   COMPUTER VISION  •  DEEP LEARNING  •  GENERATIVE AI  •  PYTHON            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   TANM00018  //  AI ENGINEERING LAB                                        │
+│                                                                              │
+│   COMPUTER VISION  ·  DEEP LEARNING  ·  GENERATIVE AI  ·  REAL-TIME AI      │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 <br>
 
-## `~/system/about`
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### `~/about`
 
 ```text
-┌──[ TANM00018 ]──────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  $ whoami                                                                   │
-│  engineering_student                                                        │
-│                                                                              │
-│  $ cat /proc/focus                                                          │
-│  ├── artificial_intelligence                                                │
-│  ├── computer_vision                                                        │
-│  ├── deep_learning                                                          │
-│  ├── generative_ai                                                          │
-│  └── real_time_ai_systems                                                   │
-│                                                                              │
-│  $ cat /proc/mindset                                                        │
-│  Build → Break → Debug → Understand → Improve → Repeat                     │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+$ whoami
+
+engineering_student
+
+$ focus
+
+Artificial Intelligence
+Computer Vision
+Deep Learning
+Generative AI
+Real-Time AI Systems
+
+$ mindset
+
+Understand → Build → Break
+→ Debug → Improve → Repeat
 ```
 
-I build things with Python, break them, fix them, and try to understand **why** they work rather than simply making them run.
+</td>
 
-Currently exploring **Computer Vision, Deep Learning, Generative AI, and real-time AI systems** — with a particular interest in turning experimental ideas into software that can actually be used.
+<td width="45%" valign="top">
+
+### `~/status`
+
+```text
+┌──────────────────────────┐
+│ SYSTEM STATUS            │
+├──────────────────────────┤
+│ AI / ML          ONLINE  │
+│ COMPUTER VISION  ONLINE  │
+│ DEEP LEARNING    ONLINE  │
+│ GEN-AI           ACTIVE  │
+│ BUILD MODE       ACTIVE  │
+└──────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `~/processes`
+## `01 // ABOUT`
 
-```text
-┌─ ACTIVE PROCESSES ──────────────────────────────────────────────────────────┐
-│                                                                              │
-│  PID     PROCESS                              STATUS                         │
-│  ────────────────────────────────────────────────────────────────────────  │
-│  001     fog-night-vision-enhancement         ● ACTIVE                       │
-│  002     deep-learning-experiments            ● ITERATING                    │
-│  003     generative-ai-research               ● EXPLORING                    │
-│  004     random-what-if-ideas                 ● COMPILING                    │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+I'm an engineering student focused on **Artificial Intelligence, Computer Vision, Deep Learning, and Generative AI**.
 
-### `001 / fog-night-vision-enhancement`
+I enjoy building things with Python, breaking them, fixing them, and understanding what is happening **under the hood** rather than simply making something run.
 
-**AI-powered real-time visibility enhancement system**
+Currently exploring real-time computer vision, image enhancement, generative models, and AI-powered applications — with a constant habit of turning random **"what if?"** ideas into working experiments.
 
-Exploring computer vision and deep learning approaches for improving visual information under **foggy and low-light conditions**.
+> `building things > talking about building things`
+
+---
+
+## `02 // CURRENTLY BUILDING`
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### 🌫️ Real-Time Fog & Night-Vision Enhancement
+
+An AI-powered computer vision system focused on improving visual information in **foggy and low-light environments**.
+
+The goal is to explore how deep learning and image-processing techniques can be combined into a practical **real-time enhancement pipeline**.
+
+<br>
+
+**CURRENT FOCUS**
+
+`Computer Vision`
+`Image Enhancement`
+`Deep Learning`
+`Low-Light Vision`
+`Real-Time Processing`
+
+</td>
+
+<td width="35%" valign="top">
+
+### `PROCESS`
 
 ```text
 INPUT
   ↓
-DEGRADED / LOW-VISIBILITY IMAGE
+DEGRADED IMAGE
   ↓
 VISION PIPELINE
-  ├── image processing
-  ├── enhancement
-  └── deep learning
   ↓
-ENHANCED VISUAL OUTPUT
+ENHANCEMENT
   ↓
-REAL-TIME APPLICATION
+AI INFERENCE
+  ↓
+VISUAL OUTPUT
 ```
 
-**Research / engineering focus**
+**STATUS**
 
-`Computer Vision` · `Image Enhancement` · `Deep Learning` · `Low-Light Vision` · `Real-Time Processing`
+🟢 `ACTIVE`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `~/stack`
+## `03 // TECH STACK`
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                              TECHNOLOGY STACK                               │
-├──────────────────────┬───────────────────────────────────────────────────────┤
-│ LANGUAGES            │ Python · C · C++ · Java · R                          │
-├──────────────────────┼───────────────────────────────────────────────────────┤
-│ AI / ML              │ PyTorch · TensorFlow · Keras · scikit-learn           │
-├──────────────────────┼───────────────────────────────────────────────────────┤
-│ COMPUTER VISION      │ OpenCV                                                │
-├──────────────────────┼───────────────────────────────────────────────────────┤
-│ DATA                 │ Pandas · Matplotlib · MySQL                           │
-├──────────────────────┼───────────────────────────────────────────────────────┤
-│ APPLICATIONS         │ Flask · React · Streamlit                             │
-├──────────────────────┼───────────────────────────────────────────────────────┤
-│ CLOUD / INFRA        │ Google Cloud · Docker                                │
-├──────────────────────┼───────────────────────────────────────────────────────┤
-│ DEVELOPMENT          │ Git · GitHub                                          │
-├──────────────────────┼───────────────────────────────────────────────────────┤
-│ DESIGN               │ Figma                                                 │
-└──────────────────────┴───────────────────────────────────────────────────────┘
-```
+### `LANGUAGES`
 
-### `--runtime`
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![R](https://img.shields.io/badge/R-0d0d0d?style=for-the-badge\&logo=r\&logoColor=white)
-
-### `--ai`
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-0d0d0d?style=for-the-badge\&logo=keras\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-### `--engineering`
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge\&logo=react\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge\&logo=flask\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d0d0d?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge\&logo=docker\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0d0d0d?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### `--tools`
-
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge\&logo=github\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge\&logo=figma\&logoColor=white)
-
----
-
-## `~/projects`
-
-```text
-$ ls -la ~/projects
-
-drwxr-xr-x  fog-night-vision-enhancement
-drwxr-xr-x  generative-ai-experiments
-drwxr-xr-x  computer-vision-projects
-drwxr-xr-x  ai-experiments
-```
-
-### `[01]` Fog & Night-Vision Enhancement
-
-```text
-TYPE        Computer Vision / Deep Learning
-STATUS      ● ACTIVE
-FOCUS       Adverse-condition visual enhancement
-STACK       Python · OpenCV · Deep Learning
-```
-
-> Building toward a practical real-time system for improving visibility when conventional visual information becomes unreliable.
-
----
-
-### `[02]` Generative AI / GAN Experiments
-
-```text
-TYPE        Generative AI
-STATUS      ● EXPERIMENTAL
-FOCUS       Generative modelling
-STACK       Python · Deep Learning
-```
-
-> Exploring generative models through hands-on implementation and experimentation.
-
----
-
-### `[03]` Computer Vision Experiments
-
-```text
-TYPE        Computer Vision
-STATUS      ● ITERATING
-FOCUS       Image / video understanding
-STACK       Python · OpenCV · ML
-```
-
-> A collection of experiments focused on understanding how machines can extract useful information from visual data.
-
----
-
-### `[04]` AI Experiments
-
-```text
-TYPE        Research / Prototyping
-STATUS      ● CONTINUOUS
-FOCUS       "What if?"
-STACK       Depends on the problem
-```
-
-> Small experiments, prototypes, and ideas that start with a question and end with something that works — or a better understanding of why it didn't.
-
----
-
-## `~/github --telemetry`
-
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Tanm00018&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanm00018&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
-
+<p>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
-<p align="center">
+### `AI / MACHINE LEARNING`
 
-<img src="https://streak-stats.demolab.com/?user=Tanm00018&theme=github_dark&hide_border=true"/>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-111111?style=for-the-badge&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white">
+</p>
 
+### `DATA / COMPUTING`
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### `APPLICATION DEVELOPMENT`
+
+<p>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=white">
+</p>
+
+### `CLOUD / DEVOPS`
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+### `TOOLS`
+
+<p>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 ---
 
-## `~/interests`
+## `04 // PROJECTS`
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  [01] ARTIFICIAL INTELLIGENCE                                               │
-│  [02] COMPUTER VISION                                                       │
-│  [03] DEEP LEARNING                                                         │
-│  [04] GENERATIVE AI                                                         │
-│  [05] IMAGE & VIDEO PROCESSING                                              │
-│  [06] REAL-TIME AI SYSTEMS                                                  │
-│  [07] AI-POWERED APPLICATIONS                                               │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` · FOG / NIGHT VISION
+
+**AI Computer Vision System**
+
+Real-time enhancement research for adverse visual conditions including fog and low-light environments.
+
+**Stack**
+
+`Python` `OpenCV` `Deep Learning`
+
+**Status**
+
+🟢 `BUILDING`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02` · GENERATIVE AI
+
+**GAN / Generative Experiments**
+
+Hands-on experimentation with generative models and deep learning approaches for visual data.
+
+**Stack**
+
+`Python` `Deep Learning` `GANs`
+
+**Status**
+
+🟡 `EXPERIMENTAL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `03` · COMPUTER VISION
+
+**Vision Experiments**
+
+A collection of experiments exploring image processing, visual understanding, and machine-learning-based vision systems.
+
+**Stack**
+
+`Python` `OpenCV` `ML`
+
+**Status**
+
+🟡 `ITERATING`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04` · AI EXPERIMENTS
+
+**Ideas → Prototypes**
+
+Small experiments born from random questions, technical curiosity, and the occasional "what if we tried this?"
+
+**Stack**
+
+`AI` `ML` `CV` `GenAI`
+
+**Status**
+
+🔵 `CONTINUOUS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05 // GITHUB TELEMETRY`
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Tanm00018&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanm00018&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tanm00018&theme=github_dark&hide_border=true" height="170">
+</p>
 
 ---
 
-## `~/terminal`
+## `06 // AREAS OF INTEREST`
 
-```text
-┌──[ TERMINAL ]───────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  tanmay@github:~$ ./build                                                    │
-│                                                                              │
-│  [████████████████████████████████████████] 100%                            │
-│                                                                              │
-│  → idea acquired                                                             │
-│  → problem understood                                                        │
-│  → model / system designed                                                   │
-│  → implementation started                                                    │
-│  → bugs discovered                                                           │
-│  → bugs aggressively investigated                                            │
-│  → system improved                                                           │
-│                                                                              │
-│  tanmay@github:~$ _                                                          │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="25%">
 
----
+### 👁️
 
-## `~/philosophy`
+**COMPUTER**
+**VISION**
 
-> **Don't just use the tool. Understand the tool.**
+</td>
 
-I like going one layer deeper — understanding the algorithms, experimenting with different approaches, finding failure cases, and figuring out what happens under the hood.
+<td align="center" width="25%">
 
-```text
-UNDERSTAND
-    ↓
-BUILD
-    ↓
-BREAK
-    ↓
-DEBUG
-    ↓
-LEARN
-    ↓
-BUILD BETTER
-```
+### 🧠
+
+**DEEP**
+**LEARNING**
+
+</td>
+
+<td align="center" width="25%">
+
+### ✨
+
+**GENERATIVE**
+**AI**
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**REAL-TIME**
+**SYSTEMS**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `~/status`
+## `07 // ENGINEERING PHILOSOPHY`
+
+<div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  SYSTEM STATUS                                                              │
-│                                                                              │
-│  AI / ML              ████████████████████  ACTIVE                         │
-│  COMPUTER VISION      ████████████████████  ACTIVE                         │
-│  DEEP LEARNING        ████████████████████  ACTIVE                         │
-│  GENERATIVE AI        ████████████████████  EXPLORING                      │
-│  REAL-TIME SYSTEMS    ████████████████████  BUILDING                       │
-│                                                                              │
-│  CURRENT MODE:  LEARN / BUILD / EXPERIMENT                                  │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│        UNDERSTAND                                                   │
+│             ↓                                                       │
+│           BUILD                                                     │
+│             ↓                                                       │
+│           BREAK                                                     │
+│             ↓                                                       │
+│          DEBUG                                                      │
+│             ↓                                                       │
+│           LEARN                                                     │
+│             ↓                                                       │
+│        BUILD BETTER                                                 │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
+I don't want to just use a technology.
+
+I want to understand **why it works, where it fails, and what happens when I push it further.**
+
 ---
+
+## `08 // TERMINAL`
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  tanmay@github:~$ ./build                                          │
+│                                                                     │
+│  [████████████████████████████████████████████████] 100%           │
+│                                                                     │
+│  ✓ idea acquired                                                    │
+│  ✓ problem understood                                               │
+│  ✓ architecture designed                                            │
+│  ✓ implementation started                                           │
+│  ✓ bugs discovered                                                  │
+│  ✓ bugs investigated                                                │
+│  ✓ system improved                                                  │
+│                                                                     │
+│  tanmay@github:~$ _                                                 │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `09 // CURRENT MODE`
+
+<p align="center">
+
+`LEARN`  •  `BUILD`  •  `EXPERIMENT`  •  `REPEAT`
+
+</p>
+
+<div align="center">
+
+**Turning "what if?" into "it works."**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Tanm00018&icon=3&color=111111&style=for-the-badge" alt="Profile Views">
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```text
 ──────────────────────────────────────────────────────────────────────────────
 
-                    TANM00018  //  END OF PROFILE
+                         TANM00018 // EOF
 
-              "Turning what-if ideas into working systems."
+             AI · COMPUTER VISION · DEEP LEARNING · GEN-AI
 
 ──────────────────────────────────────────────────────────────────────────────
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Tanm00018&icon=3&color=13" alt="Profile views"/>
-
 </div>
+
