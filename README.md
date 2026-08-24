@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Tanm00018's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 Building things with Python, breaking them, fixing them, and occasionally getting them to work. <br>Currently obsessed with Computer Vision, Deep Learning, and Generative AI. <br>Working on a fog/night-vision enhancement system, experimenting with different AI ideas, and trying to turn random “what if?” thoughts into things that actually work. <br>I like understanding how things work under the hood rather than just making them run. <br>Always learning, always experimenting, and probably debugging something right now.<br>
 
